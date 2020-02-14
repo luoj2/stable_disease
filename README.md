@@ -1,5 +1,5 @@
 # Stable Disease project
-This contains python 3 code for figures and statistics used for a clinical research project.
+This contains Python 3 code for figures and statistics used for a clinical research project.
 
 # Overview
 Figures and statistics that were written for this project include the following:
