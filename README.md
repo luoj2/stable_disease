@@ -3,9 +3,8 @@ This contains Python 3 code for figures and statistics used for a clinical resea
 
 Abstract titled:
 >Determination of biological responders among those with radiological stable disease to immune checkpoint inhibitors
-
-Authored by Jia Luo, Hira A. Rizvi, Jacklynn V. Egger, Mark G. Kris, and Matthew D. Hellmann
-Memorial Sloan Kettering Cancer Center, New York, NY, USA 
+>Jia Luo, Hira A. Rizvi, Jacklynn V. Egger, Mark G. Kris, and Matthew D. Hellmann
+>Memorial Sloan Kettering Cancer Center, New York, NY, USA 
 
 # Overview
 Figures and statistics that were written for this project include the following:
