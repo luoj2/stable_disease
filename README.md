@@ -5,8 +5,8 @@ This contains Python 3 code to reproduce figures and statistics used for a clini
 >Jia Luo, Hira A. Rizvi, Jacklynn V. Egger, Mark G. Kris, and Matthew D. Hellmann.
 >Memorial Sloan Kettering Cancer Center, New York, NY, USA 
 
-# Overview
-Figures and statistics that were written for this project include the following:
+# Summary:
+Code for figures and statistics written for this project include the following:
 * Violin plot
 * Waterfall plot
 * Scatter plot with least squares best fit line
@@ -15,10 +15,12 @@ Figures and statistics that were written for this project include the following:
 * Box and whisker plot
 * Stacked bar plot
 
-# Installation
+# Installation:
 The scripts are dependent on the following packages:
 * NumPy
 * Matplotlib
 * Pandas
 * Seaborn
 * SciPy
+
+Please contact the corresponding author for any questions or comments regarding the paper.
