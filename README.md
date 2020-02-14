@@ -12,9 +12,9 @@ Figures and statistics that were written for this project include the following:
 * Stacked bar plot
 
 # Installation
-The following packages are needed to run the python code:
+The scripts are dependent on the following packages:
 * NumPy
-* MatPlotLib
+* Matplotlib
 * Pandas
 * Seaborn
 * SciPy
