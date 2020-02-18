@@ -11,7 +11,6 @@ Code for figures and statistics written for this project include the following:
 * Waterfall plot
 * Scatter plot with least squares best fit line
 * Survival curves using Kaplan-Meier estimates with logrank hazard ratio and number at risk
-* Matrix of survival curves using Kaplan-Meier estimates
 * Box and whisker plot
 * Stacked bar plot
 
